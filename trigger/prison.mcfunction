@@ -1,0 +1,1 @@
+execute as @a at @s if block ~ ~ ~ minecraft:cobweb run damage @s 2 minecraft:lightning_bolt

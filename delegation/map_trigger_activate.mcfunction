@@ -1,0 +1,22 @@
+#map_trigger
+execute if entity @a[scores={D_map_select=1}] run function st:deathmatch/trigger/nether
+execute if entity @a[scores={D_map_select=2}] run function st:deathmatch/trigger/office
+execute if entity @a[scores={D_map_select=3}] run function st:deathmatch/trigger/space_x
+execute if entity @a[scores={D_map_select=4}] run function st:deathmatch/trigger/bridge
+execute if entity @a[scores={D_map_select=5}] run function st:deathmatch/trigger/trench
+execute if entity @a[scores={D_map_select=6}] run function st:deathmatch/trigger/desert_city
+execute if entity @a[scores={D_map_select=7}] run function st:deathmatch/trigger/desert_base
+execute if entity @a[scores={D_map_select=8}] run function st:deathmatch/trigger/castle
+execute if entity @a[scores={D_map_select=11}] run function st:deathmatch/trigger/old_hotel
+execute if entity @a[scores={D_map_select=13}] run function st:deathmatch/trigger/prison
+execute if entity @a[scores={D_map_select=14}] run function st:deathmatch/trigger/flooded_temple
+execute if entity @a[scores={D_map_select=15}] run function st:deathmatch/trigger/nether_fortress
+execute if entity @a[scores={D_map_select=16}] run function st:deathmatch/trigger/rage_of_god
+execute if entity @a[scores={D_map_select=17}] run function st:deathmatch/trigger/maze
+execute if entity @a[scores={D_map_select=18}] run function st:deathmatch/trigger/military_bunker
+execute if entity @a[scores={D_map_select=19}] run function st:deathmatch/trigger/old_museum
+execute if entity @a[scores={D_map_select=19}] run function st:deathmatch/trigger/old_midden
+execute if entity @a[scores={D_map_select=21}] run function st:deathmatch/trigger/mine
+execute if entity @a[scores={D_map_select=22}] run function st:deathmatch/trigger/ancient_portal
+execute if entity @a[scores={D_map_select=25}] run function st:deathmatch/trigger/nether_castle
+execute if entity @a[scores={D_map_select=33}] run function st:deathmatch/trigger/portal_maze

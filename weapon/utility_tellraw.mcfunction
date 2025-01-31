@@ -1,0 +1,8 @@
+tellraw @a[scores={D_utility_supply=1},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"explosive mine","color":"aqua"}]
+tellraw @a[scores={D_utility_supply=2},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"gas mine","color":"aqua"}]
+tellraw @a[scores={D_utility_supply=3},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"explosive launcher","color":"aqua"}]
+tellraw @a[scores={D_utility_supply=4},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"flare launcher","color":"aqua"}]
+tellraw @a[scores={D_utility_supply=5},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"timer bomb","color":"aqua"}]
+tellraw @a[scores={D_utility_supply=6},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"sniper","color":"aqua"}]
+tellraw @a[scores={D_utility_supply=7},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"APS","color":"aqua"}]
+tellraw @a[scores={D_utility_supply=10},nbt={Inventory:[{Slot:7b,id:"minecraft:written_book"}]}] [{"text":"incendiary","color":"aqua"}]

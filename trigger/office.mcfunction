@@ -1,0 +1,2 @@
+execute as @a at @s if block ~ ~ ~ minecraft:light[level=0] run effect give @s minecraft:levitation 2 3 true
+execute as @a at @s if block ~ ~ ~ minecraft:light[level=1] run effect clear @s minecraft:levitation

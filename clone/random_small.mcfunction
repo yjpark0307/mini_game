@@ -1,0 +1,11 @@
+execute if entity @a[scores={D_map_random=0}] run function st:deathmatch/clone/countryside
+execute if entity @a[scores={D_map_random=1}] run function st:deathmatch/clone/nether
+execute if entity @a[scores={D_map_random=2}] run function st:deathmatch/clone/office
+execute if entity @a[scores={D_map_random=3}] run function st:deathmatch/clone/bridge
+execute if entity @a[scores={D_map_random=4}] run function st:deathmatch/clone/trench
+execute if entity @a[scores={D_map_random=5}] run function st:deathmatch/clone/old_harbor
+execute if entity @a[scores={D_map_random=6}] run function st:deathmatch/clone/temple
+execute if entity @a[scores={D_map_random=7}] run function st:deathmatch/clone/nether_fortress
+execute if entity @a[scores={D_map_random=8}] run function st:deathmatch/clone/old_midden
+execute if entity @a[scores={D_map_random=9}] run function st:deathmatch/clone/ancient_portal
+execute if entity @a[scores={D_map_random=10}] run function st:deathmatch/clone/nether_castle

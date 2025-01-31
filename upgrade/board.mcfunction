@@ -1,0 +1,2 @@
+tellraw @s [{"text":"health : "},{"score":{"name":"@s","objective":"D_upgrade_health"},"color":"green"},{"text":", armor : "},{"score":{"name":"@s","objective":"D_upgrade_armor"},"color":"green"},{"text":", speed : "},{"score":{"name":"@s","objective":"D_upgrade_speed"},"color":"green"}]
+tellraw @s [{"text":"remain coin : "},{"score":{"name":"@s","objective":"D_upgrade_coin"},"color":"gold"}]

@@ -1,0 +1,1 @@
+summon minecraft:pillager ~ ~ ~ {NoAI:1b,Health:20,Attributes:[{Name:"minecraft:generic.armor",Base:15}],Tags:["D_dummy","A_kill"]}
